@@ -1,0 +1,35 @@
+Pozývame vás na odbornú konferenciu 5G Campus TUKE: Technológia a Prípadové štúdie!
+Registrujte sa na https://forms.gle/Hr8JNdRPDvBXvo9z6
+Program konferencie:
+Dátum: 29. október 2025
+BLOK 1 Doobedňajší blok v UVP TECHNICOM, TUKE, Košice
+08:30 – 09:00 Registrácia a uvítacia káva
+Príchod účastníkov, registrácia, odovzdanie materiálov, networking
+09:00 – 09:20  Otvorenie konferencie            
+Ing. Rastislav Ručinský, PhD., Igor Bezák (Slovak Telekom)
+Slávnostné otvorenie s úvodným predstavením cieľov konferencie a významu 5G kampusovej siete pre univerzitu a biznis.
+09:20 – 09:50  5G Campus v praxi: Skúsenosti a výzvy z európskeho trhu              
+Ján Hirsch (Head of centre of excellence Industry 4.0, Deutsche Telekom)           
+Prehľad existujúcich 5G kampusových sietí v Európe, úspešné a neúspešné použitia technológie, skúsenosti a odporúčania zo skutočných implementácií.
+1st. Coffe break (10 min.)
+10:00 – 10:10  TUKE 5G Private Campus: Technologický základ a možnosti          
+Marta Kadlic (Slovak Telekom WP1), Šimon Čech (Slovak T WP2)          
+Stručná prezentácia architektúry a technických parametrov 5G kampusovej siete na TUKE, technické možnosti, aktuálna pripravenosť siete .
+10:10 – 10:25 5G Privátna sieť – Praktická ukážka prínosov            
+Kamil Židek (TUKE PO),   
+Prečo 5G standalone je vhodnejšie ako Wi-Fi 6E pri riadení autonómneho mobilného robota (AMR) MiR100. Prezentácia prípadovej štúdie dynamického pohybu robota v priemyselnom laboratóriu (SmartTechLab)
+10:25 – 10:50 5G Use Cases v logistike: Praktické riešenia a prínosy        
+Robin Mitana, (Sova Digital WP3), doc. Ing. Marek Vrabeľ, PhD. (TUKE)
+Praktické prípadové štúdie využitia 5G siete v logistike, zameranie sa na prínosy, reálne aplikácie a odporúčania.
+2nd. Coffe break (10 min.)
+11:00 – 11:30 Smart Energy Use Cases: 5G v inteligentnom meraní a manažmente
+doc. Ing. Martin Chovanec, PhD. (TUKE WP4)
+Prezentácia využitia 5G technológie pre inteligentné meranie energie, environmentálne a trhové benefity.
+11:30 – 11:50 Wrap-up & Diskusia 
+Moderátor        
+Moderovaná diskusia a zhrnutie, priestor pre otázky účastníkov.
+11:50 – 12:50 Obed & networking
+Obed v lobby a príležitosť na odborný networking a neformálne diskusie.
+Blok 2. Poobedný blok – praktické ukážky PAIC (TUKE)
+13:00 – 15:00   Prehliadka a živé ukážky: Logistika a Inteligentné meranie energie v PAIC
+Ukážky ďalších 5G aplikácií: Prehliadka laboratórií, pracovísk a Test Bed s technológiami umožňujúcimi rýchle a bezpečné dátové prenosy a zber dát.
