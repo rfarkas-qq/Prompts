@@ -1,0 +1,18 @@
+5G - ako pouzit aj ako nepouzit
+
+pripadove studie
+- rijeka - ovladanie zeriavov, kamera backup 5G siet, hlavny datovy tok po optike
+- Brno, vojenska nemocnica - kiosky pre personal pripojene cez 5G
+
+cena za pripojny bod
+znizovanie poziadaviek
+pasivne 5G cipy - mozna identifikacia 5G tagu v priestore. technologia Huawei, este nie je standardizovana. Presnost dosiahnutelna do 25metrov od anteny.
+
+Urcovanie presnej pozicie tagu s "presnostou na paletu" - cca 1m.
+Limitacia - iba x,y osi. Osa z iba cez barometer, co je nepresne, potrebuje ciachovanie.
+
+Prakticke laboratorne merania - porovnavania 5G oproti Wifi 6. 
+
+Studenti ukazali autonomne pohybujuce sa auto. Povodne pouzili vypoctovy vykon cez mikropocitac jetson, s velkou vypoctovou silou ale aj cenou. 
+Teraz to prepojili cez 5G na cloud kde prebiehaju narocne vypocty, na vozidle ostali len obmedzene vypocty na bezpecnostne zastavenie jazdy a reakcia na krizove situacie.
+
