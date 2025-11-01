@@ -1,10 +1,62 @@
 5G - ako pouzit aj ako nepouzit
 
+Scenáre 5G konektivity
+Hierarchia pyramídy (zhora nadol):
+
+1. 5G SA (najvyššia úroveň)
+Prípad použitia:
+
+Strojové videnie
+Priemyselná komunikácia
+5G polohování
+
+Náklady na zariadenie:
+
+100 EUR za komunikačný modul
+
+
+2. RedCap
+Prípad použitia:
+
+Médiá vo vozidlách
+Nositeľná elektronika
+HD kamera
+
+Náklady na zariadenie:
+
+50 EUR za komunikačný modul
+
+
+3. LPWA – NB IoT
+Prípad použitia:
+
+Merače
+Senzory
+
+Náklady na zariadenie:
+
+5 EUR za komunikačný modul
+
+
+4. Ambient (Pasívny) IoT (najnižšia úroveň)
+Prípad použitia:
+
+Správa majetku
+Inventár tovaru
+Sledovanie logistiky
+
+Náklady na zariadenie:
+
+0,4 EUR za štítok
+
+
 pripadove studie
 - rijeka - ovladanie zeriavov, kamera backup 5G siet, hlavny datovy tok po optike
   https://www.t.ht.hr/en/Press/press-releases/7505/Hrvatski-Telekom-equips-new-container-port-in-Rijeka-with-5G-network.html
   https://www.sdxcentral.com/news/hrvatski-telekom-connects-container-port-in-rijeka-croatia-with-5g-network/
 - Brno, vojenska nemocnica - kiosky pre personal pripojene cez 5G
+  https://brnensky.denik.cz/zpravy_region/vojenska-nemocnice-brno-5g-sit-prenos-video-na-dalku-ojedinela-technologie.html
+  https://mobilmania.zive.cz/clanky/vojenska-nemocnice-brno-testuje-chirurgicke-operace-na-dalku-pouziva-k-tomu-privatni-5g-sit-od-t-mobilu/sc-3-a-1363404/default.aspx
 
 cena za pripojny bod
 znizovanie poziadaviek
@@ -14,6 +66,14 @@ Urcovanie presnej pozicie tagu s "presnostou na paletu" - cca 1m.
 Limitacia - iba x,y osi. Osa z iba cez barometer, co je nepresne, potrebuje ciachovanie.
 
 Prakticke laboratorne merania - porovnavania 5G oproti Wifi 6. 
+
+Záver výskumu použiteľnosti 5G v priemysle
+Stabilná a spoľahlivá komunikácia je pre autonómne mobilné roboty (AMR) kľúčová najmä pri prenose príkazov, sledovaní ich stavu a synchronizácii s inými robotmi, aby bola zabezpečená plynulá a koordinovaná prevádzka počas pohybu.
+Technológia Wi-Fi 6E dosiahla síce priemernú latenciu (16,5 ms), no vykazovala extrémne výkyvy, stratu paketov a vysokú citlivosť na orientáciu robota a vzdialenosť od prístupového bodu.
+Naopak, 5G Standalone (SA) si udržiavala konzistentnú latenciu okolo 20 ms, veľmi nízky Jitter a nulovú stratu paketov, aj pri slabších úrovniach signálu. Počas všetkých experimentov bola sieť stabilná a predvídateľná.
+Wi-Fi spojenie sa prerušilo pri úrovni okolo –81 dBm, zatiaľ čo 5G zostalo stabilné až do –111 dBm.
+Tieto výsledky potvrdzujú, že 5G je vhodnejším a spoľahlivejším riešením pre mobilnú priemyselnú robotiku, pretože dokáže zabezpečiť stabilnú komunikáciu aj v prostrediach s rušením a je menej závislé od vonkajších podmienok než Wi-Fi.
+Technológia 5G je výhodná pri riadení viacerých mobilných robotov, kde spoľahlivosť a predvídateľnosť siete sú kľúčové pre synchronizáciu zariadení v reálnom čase, napríklad pri prenose informácie do Fleet manažéru.
 
 Studenti ukazali autonomne pohybujuce sa auto. Povodne pouzili vypoctovy vykon cez mikropocitac jetson, s velkou vypoctovou silou ale aj cenou. 
 Teraz to prepojili cez 5G na cloud kde prebiehaju narocne vypocty, na vozidle ostali len obmedzene vypocty na bezpecnostne zastavenie jazdy a reakcia na krizove situacie.
