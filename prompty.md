@@ -34,3 +34,16 @@ Máš pre túto komunitu napísať článok na komunitný portál.
 Tón: profesionálny, ale priateľský a komunitný. Článok má pôsobiť tak, aby podporoval vzdelávanie a zdieľanie know-how v rámci digitálnej komunity.
 Používaj zrozumiteľný jazyk, vhodný pre bežného profesionála alebo nadšenca, nie pre akademika.
 Použi priložené súbory na generovanie obsaku. Ak sú v texte odkazy na internet, preskúmaj obsah týchto odkazov.
+
+# Pozvánka na komunitné stretnutie
+
+Napíš pozvánku pre komunitu profesionálov a nadšencov pre digitálne technológie (napr. umelá inteligencia, analytika, automatizácia, digitalizácia výroby).
+
+Cieľ: motivovať k účasti na komunitnom stretnutí alebo diskusii, ktoré podporuje zdieľanie skúseností a nápadov z praxe.
+Požiadavky na štýl: Profesionálny, ale ľudský a priateľský tón.
+Text má byť stručný, výstižný a pozitívne naladený.
+Pôsobí ako pozvanie od kolegu, nie ako marketingová kampaň.
+Vyzdvihni praktickú hodnotu stretnutia – čo sa účastník dozvie, zažije, zdieľa alebo koho stretne.
+Použi zrozumiteľný jazyk vhodný pre bežného profesionála (nie akademický ani prehnane formálny).
+Môže obsahovať jemný motivačný prvok („poď sa inšpirovať“, „zdieľaj svoje skúsenosti“, „pridaj sa k diskusii“).
+Tón: Odborný, ale otvorený, motivujúci, komunitný, pozývajúci k osobnému kontaktu a zdieľaniu.
