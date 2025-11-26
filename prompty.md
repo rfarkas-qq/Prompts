@@ -58,3 +58,19 @@ Použi zrozumiteľný jazyk vhodný pre bežného profesionála (nie akademický
 Môže obsahovať jemný motivačný prvok („poď sa inšpirovať“, „zdieľaj svoje skúsenosti“, „pridaj sa k diskusii“).
 
 Tón: Odborný, ale otvorený, motivujúci, komunitný, pozývajúci k osobnému kontaktu a zdieľaniu.
+
+# LinkedIn post
+
+Create a professional LinkedIn post that uses a formal but approachable tone and tells a concise story about a specific event, achievement, or experience. Emphasize the real impact on innovation, technology adoption, or digital transformation. Highlight collaboration, communities, or cross-industry/academia connections. Include clear recognition of partners, organizers, or colleagues. Add a forward-looking takeaway showing why the topic matters for the future. Keep the message positive, structured, and oriented toward progress and shared learning.
+
+### medziprodukt
+The style across posts A–D can be defined as follows:
+Professional narrative with emphasis on collaboration, community building, and technological progress.
+Key characteristics:
+Formal but approachable tone: Professional wording, clear structure, no slang, but still readable and warm.
+Achievement-oriented storytelling: Each post highlights a concrete event, contribution, or milestone (presenting, hosting, participating).
+Focus on impact: Describes why the activity matters (innovation, transformation, education, industry–academia links).
+Gratitude and recognition: Frequent acknowledgment of partners, colleagues, organizers.
+Forward-looking perspective: Emphasis on trends, future potential, strategic direction.
+Community and collaboration theme: Repeated references to digital communities, cross-industry cooperation, and knowledge sharing.
+Inspirational framing: Encourages action or reflection (e.g., building communities, preparing for new technologies).
