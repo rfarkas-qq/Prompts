@@ -8,3 +8,16 @@ Our digital community at U. S. Steel recently had the opportunity to welcome Igo
 We also touched on how Vibe Coding links to established software practices such as unit testing and code reviews, providing a bridge between rapid prototyping and “real” development. While this is not how we aim to build enterprise systems, the session clearly showed how AI-driven iteration can accelerate early-stage application design and help refine user requirements before a developer ever writes a line of code. The same principles can support cleaner, more interactive Power BI solutions or speed up internal tooling.
 Looking ahead, we see strong potential to bring these capabilities into our IT development teams and strengthen our broader digital transformation. Approaches like this can deepen collaboration between users, analysts, and developers, and help us innovate faster and more safely.
 Many thanks to Igor and TechBand for an inspiring, highly practical session.
+
+
+## Demo
+
+### Úprava obrazovky
+
+Na obrázku máš obrazovku aplikácie na dávkovanie typov šrotu do tavby v hutníckom závode.
+V strede obrazovky je časť s názvom Nová tavba. V rámci nej sú odporúčania, koľko akého šrotu použiť.
+Uprav túto obrazovku tak, aby zobrazila odporúčania nie len na nasledujúcu tavbu, ale naraz na nasledujúce 3 tavby.
+
+Pridaj možnosť manuálnej úpravy odporúčaní šrotov pre každú tavbu s validáciou dostupných množstiev
+Tavby zoraď vedľa seba, nie pod seba. daj všetky nasledujúce tavby hneď vedľa dostuné šroty
+Pod zobrazenie dostupnych srotov pridaj tlacidla na Pridanie a upravu srotu, tak, ako bolo v povodnom obrazku.
