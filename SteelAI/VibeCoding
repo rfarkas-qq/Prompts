@@ -21,3 +21,19 @@ Uprav túto obrazovku tak, aby zobrazila odporúčania nie len na nasledujúcu t
 Pridaj možnosť manuálnej úpravy odporúčaní šrotov pre každú tavbu s validáciou dostupných množstiev
 Tavby zoraď vedľa seba, nie pod seba. daj všetky nasledujúce tavby hneď vedľa dostuné šroty
 Pod zobrazenie dostupnych srotov pridaj tlacidla na Pridanie a upravu srotu, tak, ako bolo v povodnom obrazku.
+
+### PowerBI report
+
+Priprav report v štýle PowerBI. Použi moderné vizuály a efektný dizajn.
+Ide o výrobu a spotrebu elektrickej energie.
+Vieme si vyrobiť energiu sami. Časť energie sa nakupuje na spotovom trhu.
+Mám tieto historické dáta:
+- cena a množstvo vyrobenej energie. Cena sa mení raz denne.
+- zoznam odberateľov: externý, Transport, Logistika, Koksáreň, Mechanika, Oceliareň, Energetika, Vysoké pece
+- množstvo spotrebovanej energie po odberateľoch
+- celkové množstvo nakúpenej energie. Cena sa mení raz za 15 minút.
+Navrhni, ako by mohol vyzerať analytický report.
+
+### ChatGPT:
+
+
