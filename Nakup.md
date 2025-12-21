@@ -52,3 +52,30 @@ Príklad formátu výstupu: Názov: Nákup víkend – MLIEČNE VÝROBKY
 Cieľom je, aby som v obchode prechádzal kategórie postupne a mal všetko na jednom mieste.
 
 Nakoniec všetky tieto zoznamy vytvor v mojom Google Keep.
+
+## ver2 eng
+
+Act as a shopping assistant. I am sending you a shopping list in the attachment, 
+where items are sorted by recipes/groups.
+
+Your tasks:
+
+Categorization: Reorganize all items into categories according to how they are usually placed in supermarkets 
+(e.g., Fruit and Vegetables, Dairy Products, Meat, Non-perishable Foods, Bakery Products, etc.).
+
+Merging and origin: If an item appears in multiple recipes, merge it into one. 
+In parentheses after the item name, list the names of all the original groups in which it appeared.
+
+Format for Google Keep: Prepare the lists so that I can easily copy them into Google Keep.
+
+Create multiple lists by category. List name: [Attachment name] – [Category name]
+Contents: Individual items with checkboxes.
+
+Example of output format: Name: Weekend shopping – DAIRY PRODUCTS
+[ ] Butter (Roast chicken, Cake)
+[ ] Cream (Pasta sauce)
+
+The goal is to go through the categories in the store one by one and have everything in one place.
+
+Finally, create all these lists in my Google Keep.
+
